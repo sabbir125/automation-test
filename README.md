@@ -1,6 +1,6 @@
 # Amazon Product Scraper
 
-A fast, multithreaded Amazon product scraper with a clean GUI interface.
+fast, multithreaded Amazon product scraper with a clean GUI interface.
 
 ## Features
 
