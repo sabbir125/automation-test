@@ -42,7 +42,7 @@ python main.py
 2. **Pages**: Set how many Amazon pages to scrape (1-20)
 3. **Workers**: Set concurrent threads for faster scraping (1-10)
 4. **Output**: Choose filename for CSV results
-5. **Start**: Click "Start Scraping" and monitor progress
+5. **Start**: Click "Start Scraping" and monitor 
 
 ## Performance
 
