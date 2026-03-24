@@ -48,7 +48,7 @@ python main.py
 
 - **Original**: ~56s for 5 pages
 - **Optimized**: ~19s for 5 pages (66% faster)
-- **Rate**: ~3.5 products/second
+- **Rate**: ~3.5 products/min
 
 ## Output Format
 
